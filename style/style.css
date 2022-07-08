@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.9rem;
+}
+
+#formulario{
+    padding-left: 70px;
+}
+
+.form-check{
+    position: relative;
+    margin-top: 5px;
+}
+
+.badge{
+    border-radius: 100%;
+    padding: 5px;
+    position: absolute;
+    left: -30px;
+    width: 22px;
+    height: 22px;
+}
+
+.notificacion{
+    position: relative;
+    margin-left: 30px;
+}
